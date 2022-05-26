@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: rgb(21, 199, 80);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+   text-align: center;
+   padding-top: 400px;
+}
+
