@@ -1,2 +1,1 @@
-# jerinzech.github.io
-Portfolio website
+# This is Jerin
