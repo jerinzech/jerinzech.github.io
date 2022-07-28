@@ -6,15 +6,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>H3LL0</title>
     <link rel="stylesheet" href="style.css" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto+Mono&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto+Mono&family=Spline+Sans+Mono:wght@300&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" href="./rubik.png" type="image/icon type" />
+    <link rel="icon" href="./assets/rubik.png" type="image/icon type" />
   </head>
   <body>
-    <p>loading...</p>
+    <div id="main">
+      <nav>
+        <ul>
+          <li>
+            <button
+              class="nav-btn"
+              onclick="window.open('https://www.jerin.dev')"
+            >
+              home
+            </button>
+          </li>
+          <li>
+            <button
+              class="nav-btn"
+              onclick="window.open('https://github.com/jerinzech')"
+            >
+              projects
+            </button>
+          </li>
+          <li>
+            <button
+              class="nav-btn"
+              onclick="window.open('./assets/Jerin_James.pdf')"
+            >
+              resume
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <section id="summary">
+        <!-- <div id="profile-pic">
+          <img src="./assets/profilepicture-2.png" alt="jerin's profile-pic" />
+        </div> -->
+        <div id="info">
+          <p>
+            <span>jerin james</span> <br />
+            software developer based in Bengaluru <br />
+            flutter | react | figma <br />
+          </p>
+        </div>
+      </section>
+    </div>
   </body>
 </html>
