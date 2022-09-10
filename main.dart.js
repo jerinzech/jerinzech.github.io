@@ -57533,7 +57533,7 @@ A.MD.prototype={
 K(a){var s=null
 return A.cb(s,A.ij(A.ku("this is still WIP",$.ic().v5(B.fL,30),s,s),s,s),B.m,B.fL,s,s,s,s,s,s,s,s,s)}}
 A.re.prototype={
-ac(){return new A.H7(A.iZ("",0,null),A.aes("./lib/resources/Jerin_James.pdf"),A.a([new A.qi(null),new A.q8(null)],t.E),B.j)}}
+ac(){return new A.H7(A.iZ("",0,null),A.aes("./lib/assets/Jerin_James.pdf"),A.a([new A.qi(null),new A.q8(null)],t.E),B.j)}}
 A.H7.prototype={
 ze(a){this.ai(new A.a2X(this,a))},
 K(a){var s,r,q,p=this,o=null,n=t.w,m=a.Z(n).f.a.b,l=a.Z(n).f.a.a
@@ -57575,7 +57575,7 @@ s=A.aF(153,255,255,255)
 return A.a9s(new A.ug(new A.tz(r),new A.U(q.a.a,0.07*p.a.b),r),new A.rE(A.a([new A.jG(B.Ab,"about",new A.o5(r)),new A.jG(B.Aa,"blogs / projects",B.N8),new A.jG(B.Ad,"resume",new A.N0(r))],t.vF),B.bi,s,B.h,20,!0,100,!0,!1,r),r)}}
 A.N0.prototype={
 K(a){var s=null
-return A.cb(s,A.ij(A.cb(s,new A.AS(new A.a89(A.aes("./lib/resources/Jerin_James.pdf")),s,s,s,s,B.m,s,!1,s,B.KY,s),B.m,s,s,s,s,50,s,s,s,s,100),s,s),B.m,B.a3,s,s,s,s,s,s,s,s,s)}}
+return A.cb(s,A.ij(A.cb(s,new A.AS(new A.a89(A.aes("./lib/assets/Jerin_James.pdf")),s,s,s,s,B.m,s,!1,s,B.KY,s),B.m,s,s,s,s,50,s,s,s,s,100),s,s),B.m,B.a3,s,s,s,s,s,s,s,s,s)}}
 A.a89.prototype={
 $0(){A.jj(this.a)},
 $S:0}
